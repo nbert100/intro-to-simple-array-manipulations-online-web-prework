@@ -12,9 +12,9 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  pop_array = []
   array.pop
   array.pop
-  
-return pop_array
+
 end
+
+def using_shift
